@@ -5,11 +5,13 @@
 
 ## Features
 * ATmega328 compatible
-* up to 32 MHz
+* LGT8XM core with optimized AVR compatible instruction set (RISC)
+* up to 32 MHz, internal 32 MHz RC Oscillator (1%)
 * 2 KByte RAM
 * 32 KByte Flash
-* LGT8XM core with optimized AVR compatible instruction set (RISC architecture)
-* DSC - 16-bit arithmetic acceleration unit
+* DSC - 16 bit arithmetic acceleration unit
+* 12 bit ADC
+* 8 bit DAC
 
 
 ## Documents
