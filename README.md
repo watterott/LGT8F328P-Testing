@@ -17,5 +17,6 @@
 ## Documents
 * [Chinese Datasheet](https://github.com/watterott/LGT8F328P-Testing/raw/master/LGT8FX8P_databook_v1.0.5.pdf)
 * [English Datasheet](https://github.com/watterott/LGT8F328P-Testing/raw/master/LGT8FX8P_databook_v1.0.5-English.pdf)
-* [Arduino Board Support](https://github.com/LGTMCU/Larduino_HSP)
+* [Original Arduino Board Support](https://github.com/LGTMCU/Larduino_HSP)
+* [New Arduino Board Support](https://github.com/dbuezas/lgt8fx)
 * [ISP for LGT8FX8D](https://github.com/LGTMCU/LarduinoISP)
